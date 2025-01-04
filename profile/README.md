@@ -50,4 +50,4 @@ A responsive admin dashboard template for web apps, with a modern design and eas
 
 💻 Together, let's innovate and create! 🌟  
 We are always looking for passionate contributors. Join us in making a difference!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhettarHananeSoumia)](https://github.com/anuraghazra/github-readme-stats)
+
