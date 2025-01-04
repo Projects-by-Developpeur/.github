@@ -43,8 +43,10 @@ A sleek and professional website template for showcasing projects and skills. Bu
 A responsive admin dashboard template for web apps, with a modern design and easy customization.  
 
 # 🌍 Stay Connected!
-📸 Follow us on [Instagram](https://www.instagram.com/developpeur.27) for updates, tips, and more.  
+📸 Follow us on [Instagram](https://www.instagram.com/developpeur.27) for updates, tips, and more.
+📧 Email: [contact.developpeur27@gmail.com](mailto:contact.developpeur27@gmail.com)
+📱 Phone: +213542577666
 🔗 Check out our open-source projects [here](https://github.com/Projects-by-Developpeur).  
 
 💻 Together, let's innovate and create! 🌟
-
+We are always looking for passionate contributors. Join us in making a difference!
