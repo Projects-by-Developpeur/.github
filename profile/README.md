@@ -27,19 +27,19 @@ Helping students with:
 # 📂 Open Source Projects
 ✨ Explore our open-source repositories on [GitHub](https://github.com/Projects-by-Developpeur). Here are some highlights:
 
-📝 [iNote By Développeur](https://github.com/Projects-by-Developpeur/iNote-By-Developpeur):
+📝 [iNote By Développeur](https://github.com/Projects-by-Developpeur/iNote-By-Developpeur):  
 iNote Organize Your Notes with Ease iNote is an intuitive and user-friendly mobile application designed to help users organize their notes by categories, ensuring quick and efficient access to information.
 
-🚫 [Boycott App By Développeur](https://github.com/Projects-by-Developpeur/BoycottApp-By-Developpeur):
+🚫 [Boycott App By Développeur](https://github.com/Projects-by-Developpeur/BoycottApp-By-Developpeur):  
 A purpose-driven Android app designed to raise awareness and encourage collective action against specific products. The app provides users with a categorized list of boycotted products and enables them to contribute by suggesting additional products via email.
 
-⚽ [Football Score By Développeur](https://github.com/Projects-by-Developpeur/FootballScore-By-Developpeur):
+⚽ [Football Score By Développeur](https://github.com/Projects-by-Developpeur/FootballScore-By-Developpeur):  
 Simplify Football Match Scoring Football Score is a user-friendly mobile application designed to calculate and track team points during football matches.
 
-💼 [Portfolio Template By Développeur](https://github.com/Projects-by-Developpeur/Portfolio-template-By-Developpeur):
+💼 [Portfolio Template By Développeur](https://github.com/Projects-by-Developpeur/Portfolio-template-By-Developpeur):  
 A sleek and professional website template for showcasing projects and skills. Built with HTML, CSS, and JavaScript.
 
-📊 [Dashboard Project By Développeur](https://github.com/Projects-by-Developpeur/Dashbord-Project-By-Developpeur):
+📊 [Dashboard Project By Développeur](https://github.com/Projects-by-Developpeur/Dashbord-Project-By-Developpeur):  
 A responsive admin dashboard template for web apps, with a modern design and easy customization.  
 
 # 💻 Tech Stack:
