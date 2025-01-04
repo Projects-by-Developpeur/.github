@@ -45,7 +45,7 @@ A responsive admin dashboard template for web apps, with a modern design and eas
 # 🌍 Stay Connected!
 📸 Follow us on [Instagram](https://www.instagram.com/developpeur.27) for updates, tips, and more.  
 📧 Email: [contact.developpeur27@gmail.com](mailto:contact.developpeur27@gmail.com)  
-📱 Phone: +213542577666  
+📱 Phone Number: +213542577666  
 🔗 Check out our open-source projects [here](https://github.com/Projects-by-Developpeur).    
 
 💻 Together, let's innovate and create! 🌟  
